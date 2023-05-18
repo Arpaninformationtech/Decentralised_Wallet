@@ -19,7 +19,7 @@ This repository contains a decentralized wallet application built using JavaScri
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/decentralized-wallet.git
+   git clone [https://github.com/your-username/decentralized-wallet.git](https://github.com/Arpaninformationtech/Decentralised_Wallet.git)
    ```
 
 2. Navigate to the project directory:
